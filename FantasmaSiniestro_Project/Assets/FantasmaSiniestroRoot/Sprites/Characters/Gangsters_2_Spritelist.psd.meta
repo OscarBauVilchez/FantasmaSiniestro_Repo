@@ -268,7 +268,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -282,7 +282,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -306,7 +306,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -390,8 +390,8 @@ TextureImporter:
         y: 1153
         width: 31
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,8 +412,8 @@ TextureImporter:
         y: 1153
         width: 31
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -434,8 +434,8 @@ TextureImporter:
         y: 1153
         width: 31
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -452,12 +452,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_3
       rect:
         serializedVersion: 2
-        x: 428
+        x: 429
         y: 1153
-        width: 31
+        width: 29
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -477,9 +477,9 @@ TextureImporter:
         x: 556
         y: 1153
         width: 31
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -499,9 +499,9 @@ TextureImporter:
         x: 684
         y: 1153
         width: 31
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -522,8 +522,8 @@ TextureImporter:
         y: 1153
         width: 31
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -541,11 +541,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 44
-        y: 1023
+        y: 1024
         width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -563,11 +563,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 172
-        y: 1023
+        y: 1024
         width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -585,11 +585,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 300
-        y: 1023
+        y: 1024
         width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -606,12 +606,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_10
       rect:
         serializedVersion: 2
-        x: 428
-        y: 1023
-        width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 429
+        y: 1024
+        width: 29
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -629,11 +629,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 556
-        y: 1023
+        y: 1024
         width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -651,11 +651,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 684
-        y: 1023
+        y: 1024
         width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -673,11 +673,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 812
-        y: 1023
+        y: 1024
         width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -695,11 +695,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 940
-        y: 1023
+        y: 1024
         width: 31
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,11 +717,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1068
-        y: 1023
-        width: 31
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 1024
+        width: 30
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,11 +739,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1196
-        y: 1023
+        y: 1024
         width: 31
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -761,11 +761,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1324
-        y: 1023
+        y: 1024
         width: 31
-        height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -783,11 +783,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1452
-        y: 1023
+        y: 1024
         width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -804,12 +804,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_19
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 1023
-        width: 31
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1581
+        y: 1024
+        width: 30
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -829,9 +829,9 @@ TextureImporter:
         x: 45
         y: 895
         width: 36
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -852,8 +852,8 @@ TextureImporter:
         y: 895
         width: 38
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -872,10 +872,10 @@ TextureImporter:
         serializedVersion: 2
         x: 300
         y: 895
-        width: 32
+        width: 31
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -895,9 +895,9 @@ TextureImporter:
         x: 435
         y: 895
         width: 19
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -918,8 +918,8 @@ TextureImporter:
         y: 895
         width: 27
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -939,9 +939,9 @@ TextureImporter:
         x: 684
         y: 895
         width: 36
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -962,8 +962,8 @@ TextureImporter:
         y: 895
         width: 37
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -982,10 +982,10 @@ TextureImporter:
         serializedVersion: 2
         x: 940
         y: 895
-        width: 32
+        width: 31
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1005,9 +1005,9 @@ TextureImporter:
         x: 1073
         y: 895
         width: 22
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1028,8 +1028,8 @@ TextureImporter:
         y: 895
         width: 32
         height: 72
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1050,8 +1050,8 @@ TextureImporter:
         y: 767
         width: 41
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1072,8 +1072,8 @@ TextureImporter:
         y: 767
         width: 44
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1094,8 +1094,8 @@ TextureImporter:
         y: 771
         width: 56
         height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1116,8 +1116,8 @@ TextureImporter:
         y: 767
         width: 51
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1136,10 +1136,10 @@ TextureImporter:
         serializedVersion: 2
         x: 539
         y: 767
-        width: 40
+        width: 39
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1160,8 +1160,8 @@ TextureImporter:
         y: 767
         width: 38
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1180,10 +1180,10 @@ TextureImporter:
         serializedVersion: 2
         x: 803
         y: 767
-        width: 43
+        width: 42
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1204,8 +1204,8 @@ TextureImporter:
         y: 771
         width: 54
         height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1223,11 +1223,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1049
-        y: 770
+        y: 771
         width: 52
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1244,12 +1244,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_39
       rect:
         serializedVersion: 2
-        x: 1181
+        x: 1182
         y: 767
-        width: 38
+        width: 36
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1269,9 +1269,9 @@ TextureImporter:
         x: 43
         y: 639
         width: 32
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1290,10 +1290,10 @@ TextureImporter:
         serializedVersion: 2
         x: 169
         y: 639
-        width: 37
+        width: 36
         height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1312,10 +1312,10 @@ TextureImporter:
         serializedVersion: 2
         x: 299
         y: 639
-        width: 34
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 33
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1334,10 +1334,10 @@ TextureImporter:
         serializedVersion: 2
         x: 419
         y: 640
-        width: 47
+        width: 46
         height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1358,8 +1358,8 @@ TextureImporter:
         y: 646
         width: 45
         height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1379,9 +1379,9 @@ TextureImporter:
         x: 676
         y: 648
         width: 45
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1400,10 +1400,10 @@ TextureImporter:
         serializedVersion: 2
         x: 800
         y: 641
-        width: 52
+        width: 51
         height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1424,8 +1424,8 @@ TextureImporter:
         y: 639
         width: 53
         height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1444,10 +1444,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1056
         y: 639
-        width: 49
+        width: 48
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1468,8 +1468,8 @@ TextureImporter:
         y: 639
         width: 36
         height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1490,8 +1490,8 @@ TextureImporter:
         y: 511
         width: 38
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1512,8 +1512,8 @@ TextureImporter:
         y: 511
         width: 40
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1534,8 +1534,8 @@ TextureImporter:
         y: 511
         width: 40
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1555,9 +1555,9 @@ TextureImporter:
         x: 425
         y: 511
         width: 57
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1577,9 +1577,9 @@ TextureImporter:
         x: 553
         y: 511
         width: 60
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1599,9 +1599,9 @@ TextureImporter:
         x: 682
         y: 511
         width: 44
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1619,11 +1619,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 37
-        y: 383
+        y: 384
         width: 39
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1641,11 +1641,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 170
-        y: 383
+        y: 384
         width: 50
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1663,11 +1663,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 299
-        y: 383
+        y: 384
         width: 51
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1685,11 +1685,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 427
-        y: 383
+        y: 384
         width: 40
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1708,10 +1708,10 @@ TextureImporter:
         serializedVersion: 2
         x: 40
         y: 255
-        width: 33
+        width: 32
         height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1728,12 +1728,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_61
       rect:
         serializedVersion: 2
-        x: 168
+        x: 169
         y: 255
-        width: 38
+        width: 36
         height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1750,12 +1750,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_62
       rect:
         serializedVersion: 2
-        x: 295
+        x: 296
         y: 255
-        width: 43
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 42
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1776,8 +1776,8 @@ TextureImporter:
         y: 255
         width: 47
         height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1794,12 +1794,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_64
       rect:
         serializedVersion: 2
-        x: 554
+        x: 555
         y: 255
-        width: 52
+        width: 51
         height: 75
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1813,37 +1813,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_2_Spritelist_65
+      name: Gangsters_2_Spritelist_66
       rect:
         serializedVersion: 2
         x: 683
         y: 255
         width: 44
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2e070973f90c3f30800000000000000
-      internalID: 4556527864304307754
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gangsters_2_Spritelist_66
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 127
-        width: 44
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1860,12 +1838,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_67
       rect:
         serializedVersion: 2
-        x: 160
+        x: 36
         y: 127
-        width: 42
+        width: 44
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1882,12 +1860,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_68
       rect:
         serializedVersion: 2
-        x: 284
+        x: 160
         y: 127
-        width: 46
+        width: 42
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1904,12 +1882,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_69
       rect:
         serializedVersion: 2
-        x: 408
+        x: 284
         y: 127
-        width: 50
+        width: 46
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1923,37 +1901,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_2_Spritelist_70
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 0
-        width: 29
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e76d7d8e312bd540800000000000000
-      internalID: 5033653561062156257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Gangsters_2_Spritelist_71
       rect:
         serializedVersion: 2
-        x: 176
-        y: 0
-        width: 28
+        x: 408
+        y: 127
+        width: 50
         height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1967,37 +1923,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_2_Spritelist_72
-      rect:
-        serializedVersion: 2
-        x: 303
-        y: 0
-        width: 49
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1545ca325a5f57040800000000000000
-      internalID: 4644888680319439953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Gangsters_2_Spritelist_73
       rect:
         serializedVersion: 2
-        x: 359
-        y: 47
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 46
+        y: 0
+        width: 29
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2014,12 +1948,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_74
       rect:
         serializedVersion: 2
-        x: 432
+        x: 176
         y: 0
-        width: 61
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 28
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2036,12 +1970,12 @@ TextureImporter:
       name: Gangsters_2_Spritelist_75
       rect:
         serializedVersion: 2
-        x: 489
-        y: 17
-        width: 16
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 303
+        y: 0
+        width: 66
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2055,37 +1989,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_2_Spritelist_76
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 0
-        width: 66
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 438e5e1a6556203e0800000000000000
-      internalID: -2088995854388697036
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Gangsters_2_Spritelist_77
       rect:
         serializedVersion: 2
-        x: 626
+        x: 432
         y: 0
-        width: 15
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 73
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2098,11 +2010,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Gangsters_2_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 81
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a1d98530a60e24b965daa713d691b6
+      internalID: -2013339646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a57128d543882ea4195d4f0e626f0e96
     internalID: 0
     vertices: []
     indices: 
@@ -2110,7 +2044,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Gangsters_2_Spritelist_0: -449148525389447312
       Gangsters_2_Spritelist_1: -4506081408764959700
@@ -2188,6 +2124,8 @@ TextureImporter:
       Gangsters_2_Spritelist_75: 7113275950070435014
       Gangsters_2_Spritelist_76: -2088995854388697036
       Gangsters_2_Spritelist_77: -5320737715000814738
+      Gangsters_2_Spritelist_78: -1587506509
+      Gangsters_2_Spritelist_79: -2013339646
       Gangsters_2_Spritelist_8: -5753136270376569739
       Gangsters_2_Spritelist_9: -5010815373700091808
   mipmapLimitGroupName: 

@@ -130,7 +130,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -144,7 +144,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -168,7 +168,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -248,12 +248,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 639
-        width: 32
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 44
+        y: 640
+        width: 30
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,12 +270,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_1
       rect:
         serializedVersion: 2
-        x: 171
-        y: 639
-        width: 32
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 172
+        y: 640
+        width: 30
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,12 +292,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_2
       rect:
         serializedVersion: 2
-        x: 299
-        y: 639
-        width: 32
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 300
+        y: 640
+        width: 30
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,12 +314,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_3
       rect:
         serializedVersion: 2
-        x: 427
-        y: 639
-        width: 32
-        height: 71
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 428
+        y: 640
+        width: 30
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,12 +336,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_4
       rect:
         serializedVersion: 2
-        x: 555
-        y: 639
-        width: 32
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 556
+        y: 640
+        width: 30
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,12 +358,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_5
       rect:
         serializedVersion: 2
-        x: 683
-        y: 639
-        width: 32
-        height: 69
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 684
+        y: 640
+        width: 30
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_6
       rect:
         serializedVersion: 2
-        x: 36
-        y: 511
-        width: 56
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 37
+        y: 512
+        width: 54
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,12 +402,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_7
       rect:
         serializedVersion: 2
-        x: 165
-        y: 511
-        width: 53
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 166
+        y: 512
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,12 +424,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_8
       rect:
         serializedVersion: 2
-        x: 287
-        y: 511
-        width: 61
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 288
+        y: 512
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,12 +446,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_9
       rect:
         serializedVersion: 2
-        x: 414
-        y: 512
-        width: 62
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 415
+        y: 513
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,12 +468,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_10
       rect:
         serializedVersion: 2
-        x: 546
-        y: 511
-        width: 58
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 547
+        y: 512
+        width: 56
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,12 +490,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_11
       rect:
         serializedVersion: 2
-        x: 678
-        y: 511
-        width: 54
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 679
+        y: 512
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,12 +512,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_12
       rect:
         serializedVersion: 2
-        x: 806
-        y: 511
-        width: 52
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 807
+        y: 512
+        width: 50
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,12 +534,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_13
       rect:
         serializedVersion: 2
-        x: 926
-        y: 511
-        width: 59
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 927
+        y: 512
+        width: 57
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -556,12 +556,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_14
       rect:
         serializedVersion: 2
-        x: 1055
-        y: 513
-        width: 59
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1056
+        y: 514
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -578,12 +578,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_15
       rect:
         serializedVersion: 2
-        x: 1185
-        y: 511
-        width: 59
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1186
+        y: 512
+        width: 57
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -600,12 +600,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_16
       rect:
         serializedVersion: 2
-        x: 40
-        y: 383
-        width: 45
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 41
+        y: 384
+        width: 43
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -622,12 +622,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_17
       rect:
         serializedVersion: 2
-        x: 162
-        y: 383
-        width: 57
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 163
+        y: 384
+        width: 55
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -644,12 +644,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_18
       rect:
         serializedVersion: 2
-        x: 293
-        y: 383
-        width: 56
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 294
+        y: 384
+        width: 54
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -666,12 +666,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_19
       rect:
         serializedVersion: 2
-        x: 430
-        y: 383
-        width: 48
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 431
+        y: 384
+        width: 55
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -685,59 +685,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zombie_2_Spritelist_20
-      rect:
-        serializedVersion: 2
-        x: 475
-        y: 423
-        width: 6
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de4d5c21ffcc58d30800000000000000
-      internalID: 4433174804119803117
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Zombie_2_Spritelist_21
-      rect:
-        serializedVersion: 2
-        x: 476
-        y: 421
-        width: 11
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6416a5c4151771f00800000000000000
-      internalID: 1087462429020545350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Zombie_2_Spritelist_22
       rect:
         serializedVersion: 2
-        x: 558
-        y: 383
-        width: 45
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 559
+        y: 384
+        width: 43
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -754,12 +710,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_23
       rect:
         serializedVersion: 2
-        x: 41
-        y: 255
-        width: 40
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 42
+        y: 256
+        width: 38
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -776,12 +732,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_24
       rect:
         serializedVersion: 2
-        x: 164
-        y: 255
-        width: 46
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 165
+        y: 256
+        width: 44
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -798,12 +754,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_25
       rect:
         serializedVersion: 2
-        x: 286
-        y: 255
-        width: 55
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 287
+        y: 256
+        width: 53
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -820,12 +776,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_26
       rect:
         serializedVersion: 2
-        x: 410
-        y: 255
-        width: 59
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 411
+        y: 256
+        width: 57
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -842,12 +798,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_27
       rect:
         serializedVersion: 2
-        x: 49
-        y: 127
-        width: 46
-        height: 63
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 50
+        y: 128
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -864,12 +820,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_28
       rect:
         serializedVersion: 2
-        x: 174
-        y: 127
-        width: 42
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 175
+        y: 128
+        width: 40
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -886,12 +842,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_29
       rect:
         serializedVersion: 2
-        x: 292
-        y: 127
-        width: 51
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 293
+        y: 128
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -908,12 +864,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_30
       rect:
         serializedVersion: 2
-        x: 423
-        y: 127
-        width: 49
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 424
+        y: 128
+        width: 47
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,12 +886,12 @@ TextureImporter:
       name: Zombie_2_Spritelist_31
       rect:
         serializedVersion: 2
-        x: 543
-        y: 127
-        width: 57
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 544
+        y: 128
+        width: 55
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -952,7 +908,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 763bb6532e3750349a83d30f3697b22a
     internalID: 0
     vertices: []
     indices: 
@@ -960,7 +916,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Zombie_2_Spritelist_0: -9003917705568732534
       Zombie_2_Spritelist_1: 3200086262570283634
