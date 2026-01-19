@@ -1572,7 +1572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_1_Spritelist_52
+      name: Gangsters_1_Spritelist_79
       rect:
         serializedVersion: 2
         x: 542
@@ -1594,7 +1594,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_1_Spritelist_53
+      name: Gangsters_1_Spritelist_84
       rect:
         serializedVersion: 2
         x: 534
@@ -2012,7 +2012,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_1_Spritelist_72
+      name: Gangsters_1_Spritelist_83
       rect:
         serializedVersion: 2
         x: 406
@@ -2034,7 +2034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_1_Spritelist_73
+      name: Gangsters_1_Spritelist_82
       rect:
         serializedVersion: 2
         x: 278
@@ -2166,7 +2166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_1_Spritelist_83
+      name: Gangsters_1_Spritelist_80
       rect:
         serializedVersion: 2
         x: 30
@@ -2188,7 +2188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gangsters_1_Spritelist_84
+      name: Gangsters_1_Spritelist_81
       rect:
         serializedVersion: 2
         x: 152
@@ -2273,8 +2273,6 @@ TextureImporter:
       Gangsters_1_Spritelist_5: -724560622897855319
       Gangsters_1_Spritelist_50: 3217857676187655293
       Gangsters_1_Spritelist_51: -5013501529510376100
-      Gangsters_1_Spritelist_52: -2772309590829475633
-      Gangsters_1_Spritelist_53: 5445634669691947650
       Gangsters_1_Spritelist_54: -8020668213584500616
       Gangsters_1_Spritelist_55: 595106475812334018
       Gangsters_1_Spritelist_56: -1883195545647165783
@@ -2295,20 +2293,18 @@ TextureImporter:
       Gangsters_1_Spritelist_7: 4668528627269913299
       Gangsters_1_Spritelist_70: -2095159674948801793
       Gangsters_1_Spritelist_71: -8380876148619791340
-      Gangsters_1_Spritelist_72: -4516253879548699235
-      Gangsters_1_Spritelist_73: -5408328894603384817
       Gangsters_1_Spritelist_74: -7875573970948062502
       Gangsters_1_Spritelist_75: 8037010244223661260
       Gangsters_1_Spritelist_76: 4047660601500442563
       Gangsters_1_Spritelist_77: -4978279339311248993
       Gangsters_1_Spritelist_78: 257592341558394160
-      Gangsters_1_Spritelist_79: 1236678920538104717
+      Gangsters_1_Spritelist_79: -2772309590829475633
       Gangsters_1_Spritelist_8: -2029761915292419346
-      Gangsters_1_Spritelist_80: 7393621519651704559
-      Gangsters_1_Spritelist_81: -7700758106149799342
-      Gangsters_1_Spritelist_82: -5803292568997842269
-      Gangsters_1_Spritelist_83: -4601982482135153472
-      Gangsters_1_Spritelist_84: 2512303569183073199
+      Gangsters_1_Spritelist_80: -4601982482135153472
+      Gangsters_1_Spritelist_81: 2512303569183073199
+      Gangsters_1_Spritelist_82: -5408328894603384817
+      Gangsters_1_Spritelist_83: -4516253879548699235
+      Gangsters_1_Spritelist_84: 5445634669691947650
       Gangsters_1_Spritelist_85: -2869749127082112215
       Gangsters_1_Spritelist_86: -90590276091381307
       Gangsters_1_Spritelist_87: 9115021768414439016
