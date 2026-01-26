@@ -75,8 +75,8 @@ public class PlayerController2D : MonoBehaviour
         //Lógica del cambio de animación de salto
         anim.SetBool("Jumping", !isGrounded); //Que tiene el valor contrario a isGrounded
         //Lógica de cambio entre idle-run
-        if (moveInput.x != 0) anim.SetBool("Running", true);
-        else anim.SetBool("Running", false);
+        if (moveInput.x != 0) anim.SetBool("Walking", true);
+        else anim.SetBool("Walking", false);
     }
 
 
